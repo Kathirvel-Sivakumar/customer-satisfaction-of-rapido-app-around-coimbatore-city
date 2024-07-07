@@ -1,1 +1,2 @@
 # A STUDY ON CUSTOMER SATISFACTION TOWARDS RAPIDO APP AROUND COIMBATORE CITY
+A research has been conducted around coimbatore city to identify the customer satisfaction towards rapido app .A data has been collected from both the genders and all age categories of rapido users in coimbatore .Then the data’s has been cleaned and modelled using pandas library in python and then statistical analysis has been done using SPSSsoftware. From the statistical analysis , this study concludes that most of the customers are satisfied with rapido services.
